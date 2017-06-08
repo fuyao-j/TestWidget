@@ -1,0 +1,7 @@
+#Fri May 19 12:45:04 EEST 2017
+base.0=/home/proxyz/Документы/TestWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3f2a37935ed2e48dbb3abf6b509acb1947f0c2a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/proxyz/Документы/TestWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bf1fda27ef3ac498ef90b9d48d9993c9a6f40d6/classes.dex
+base.1=/home/proxyz/Документы/TestWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bf1fda27ef3ac498ef90b9d48d9993c9a6f40d6
+file.0=/home/proxyz/Документы/TestWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3f2a37935ed2e48dbb3abf6b509acb1947f0c2a/classes.dex

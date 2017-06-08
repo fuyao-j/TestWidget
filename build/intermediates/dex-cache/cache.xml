@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/proxyz/Документы/TestWidget/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8310344aac24193b604779a749f04704969ed68">
+        <dex dex="/home/proxyz/Документы/TestWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bf1fda27ef3ac498ef90b9d48d9993c9a6f40d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/proxyz/Документы/TestWidget/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcd50f1b7aaf37880efbd3e20ecfcf1377436812">
+        <dex dex="/home/proxyz/Документы/TestWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3f2a37935ed2e48dbb3abf6b509acb1947f0c2a/classes.dex" />
+    </item>
+
+</items>

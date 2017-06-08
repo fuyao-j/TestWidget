@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/proxyz/Документы/TestWidget/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/proxyz/Документы/TestWidget/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 48,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 41,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "/home/proxyz/Документы/TestWidget/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 41,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 75,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/proxyz/Документы/TestWidget/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 75,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    }
+]

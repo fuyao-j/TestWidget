@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ff222222">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:textColor="#ffcb494b"
+        android:gravity="center"
+        android:background="#ffffffff"
+        android:layout_gravity="center_horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="25dp"
+            android:id="@+id/loading_text"
+            android:text="Загрузка..." />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Повторить попытку"
+            android:id="@+id/btn_again"
+            android:visibility="gone"
+            android:gravity="center"
+            android:layout_gravity="center|top"
+            android:background="#ffffffff"
+            android:textColor="#ff222222"
+            android:onClick="onBtnAgain" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center_horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/main"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+        <!--<LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Привітання"
+                android:id="@+id/textGreetings"
+                android:textSize="20dp" />
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Вивчено: 0%"
+                    android:paddingRight="5dp"
+                    android:id="@+id/textLearn" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="@string/choose"
+                    android:id="@+id/btnChoose"
+                    android:gravity="center"
+                    android:background="#ffffffff"
+                    android:textColor="#ff222222"
+                    android:textSize="10dp"
+                    android:onClick="onBtnChoose" />
+            </LinearLayout>
+        </LinearLayout>-->
+    </ScrollView>
+
+</LinearLayout>

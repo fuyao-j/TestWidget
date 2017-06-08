@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/proxyz/Документы/TestWidget/app/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/home/proxyz/Документы/TestWidget/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/home/proxyz/Документы/TestWidget/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/proxyz/Документы/TestWidget/app/src/main/res/layout/main.xml"
+    }
+]

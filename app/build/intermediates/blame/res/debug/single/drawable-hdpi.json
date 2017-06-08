@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/proxyz/Документы/TestWidget/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_no.png",
+        "source": "/home/proxyz/Документы/TestWidget/app/src/main/res/drawable-hdpi/btn_no.png"
+    },
+    {
+        "merged": "/home/proxyz/Документы/TestWidget/app/build/intermediates/res/merged/debug/drawable-hdpi/preview.png",
+        "source": "/home/proxyz/Документы/TestWidget/app/src/main/res/drawable-hdpi/preview.png"
+    },
+    {
+        "merged": "/home/proxyz/Документы/TestWidget/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_yes.png",
+        "source": "/home/proxyz/Документы/TestWidget/app/src/main/res/drawable-hdpi/btn_yes.png"
+    },
+    {
+        "merged": "/home/proxyz/Документы/TestWidget/app/build/intermediates/res/merged/debug/drawable-hdpi/akit_logo.png",
+        "source": "/home/proxyz/Документы/TestWidget/app/src/main/res/drawable-hdpi/akit_logo.png"
+    },
+    {
+        "merged": "/home/proxyz/Документы/TestWidget/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/proxyz/Документы/TestWidget/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="16674849648056"
+    token="-8017365888422846635"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3493" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="905" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/home/proxyz/Документы/TestWidget/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="16674849648056"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/proxyz/Документы/TestWidget/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

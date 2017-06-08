@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/update"
+        android:textSize="12dp"
+        style="@android:style/TextAppearance.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="11dp"
+        android:background="#ff222222"
+        android:layout_gravity="center"
+        android:gravity="center_vertical|center|center_horizontal"
+        android:text="Loading...">
+    </TextView>
+
+         <TextView
+            android:id="@+id/text_head"
+            style="@android:style/TextAppearance.Medium"
+            android:layout_width="230dp"
+            android:layout_height="33dp"
+            android:layout_gravity="top|center"
+            android:gravity="center"
+            android:textColor="#ffef2322"
+            android:background="#ffffffff"
+            android:textSize="12sp"
+            android:text="Centrum Kultury Rzeczypospolitej Polskiey">
+        </TextView>
+
+
+
+
+        <FrameLayout
+            android:layout_gravity="bottom"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="26dp">
+
+            <Button
+                android:id="@+id/btn_no"
+                android:layout_width="25dp"
+                android:layout_height="75dp"
+                android:background="@drawable/btn_no"/>
+
+
+
+            <Button
+                android:id="@+id/btn_yes"
+                android:layout_gravity="right"
+                android:layout_width="25dp"
+                android:layout_height="75dp"
+                android:background="@drawable/btn_yes"
+                />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_gravity="bottom"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <TextView
+                android:textSize="12dp"
+                android:id="@+id/learned"
+                style="@android:style/TextAppearance.Medium"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center_vertical|center|center_horizontal"
+                android:text="Вивчено: 0%">
+            </TextView>
+            <ImageButton
+                android:id="@+id/opts"
+                android:src="@drawable/opts"
+                android:layout_gravity="bottom|right"
+                android:layout_width="24dp"
+                android:layout_height="24dp" />
+        </FrameLayout>
+</FrameLayout>
